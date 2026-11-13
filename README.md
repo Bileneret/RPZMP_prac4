@@ -1,4 +1,11 @@
-# КП4 (Варіант 13): Система освітлення з IoT — Просунутий рівень
+<div align="center">
+  
+# КП4 (Варіант 13): Система освітлення з IoT
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+
+</div>
+
 
 Навчальний Android-застосунок `ua.kpi.iot_lighting.prac4` (minSdk 30, targetSdk 37) для моніторингу та керування міськими вузлами освітлення Кривого Рогу. Практичні заняття 13–16: реактивні потоки Flow, динамічні списки з географічною мапою, багаторівнева фільтрація й пошук, GPS із прив'язкою до реальних адрес.
 
