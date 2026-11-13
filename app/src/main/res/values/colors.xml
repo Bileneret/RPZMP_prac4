@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Темний фон вікна до ініціалізації Compose-теми -->
+    <color name="canvas_base">#FF0D1117</color>
+    <color name="surface_card">#FF161B22</color>
+</resources>
